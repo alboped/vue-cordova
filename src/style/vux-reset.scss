@@ -1,0 +1,18 @@
+/**
+ * 修改vux样式
+ */
+ 
+ /* actionsheet */
+.actionsheet-transparent {
+	.weui-actionsheet {
+		padding: 8px;
+		background-color: transparent;
+	}
+	.weui-actionsheet__menu {
+		border-radius: 5px;
+	}
+	.weui-actionsheet__action {
+		margin-top: 8px;
+		border-radius: 5px;
+	}
+}
